@@ -1,2 +1,91 @@
-# value-enhancers
-Strategies to enhance value for customers
+# "Current Customer" Value Enhancers
+
+One liner strategies to enhance value for current customers:
+
+- Refocus and / or refine retention priorities and strategies
+- Increase emphasis on customer retention
+- Proactively extend contracts close to expiration
+- Build customer satisfaction and retention into staff incentives
+- Target valuable customers that are likely to churn
+- Improve understanding of churn / defection drivers
+- Improve identification of churn / defection candidates
+- Improve adherence to contracts, policies and agreements
+- Improve competitiveness of product and service offerings
+- Improve front office tools and data access to enable retention effectiveness
+- Improve retention performance management methods and tools
+- Improve save campaigns / other retention programs
+- Bundle products and services
+- Offer value added services (enhanced facilities, discounts)
+- Proactively extend contracts close to expiration
+- Implement loyalty / affinity programs
+- Offer innovative / unique products
+- Establish customer communities
+- Improve brand strength and good will
+- Tighten contractual terms 
+- Encourage plan changes / contract renewals 
+- Proactively refine competitive plans
+- Make services easier to utilize, simplify access
+- Focus on one call resolutions
+- Communicate consistently across channels
+- Focus on speed and responsiveness, exceed SLAs
+- Evaluate competitiveness of price point / value
+- Solicit and act upon customer and internal feedback
+- Improve knowledge of customer needs, activity, history, etc.
+- Improve responsiveness to escalations
+- Improve quality of new and refurbished devices
+- Improve product availability for upgrades
+- Improve network coverage and reliability
+- Improve customer service quality and reliability
+- Increase focus on high-value / high-potential customers
+- Increase focus on most profitable products and services
+- Increase focus on most effective sales and advertising channels
+- Implement pricing and affinity programs based on tenure and profitability
+- Determine best device and offer bundle for each segment
+- Analyze take rate of features and services to improve targeting
+- Evaluate profitability of varied bundles
+- Improve visibility of customer interactions across all channels
+- Improve consistency of offering and policies across channels
+- Tailor cross-sell / up-sell campaigns to customer needs
+- Improve opportunity identification through campaigns, data and tools and competitive intelligence
+- Improve brand strength and good will
+- Respond rapidly to customer needs with innovative products 
+- Shorten order-to-delivery cycle time / Improve product and service availability
+- Improve cross-selling / up-selling skills of staff
+- Improve sales performance management methods and tools
+- Provide dealers incentives for cross-sell / up-sell customers
+- Provide usage based pricing incentives for customers
+- Provide dealers incentives for cross-sell / up-sell customers
+- Offer value added services (consolidated statements)
+- Make products and services easier to access and use
+- Provide self-service for prepay customers to credit accounts
+- Improve product collateral and education material
+- Improve staff incentives for driving increased usage
+- Facilitate roaming
+- Provide innovative data applications
+- Implement customer promotions that drive usage (sweepstakes, cash-back, etc.)
+- Proactively refine competitive plans
+- Align product and service segments / revenues
+- Increase focus on R&D, product innovation, and product leadership
+- Acquire companies aligned with product strategies
+- Pursue joint-ventures and partnerships
+- Remove barriers to switching for non-customers
+- Improve collaboration with design, development and production partners
+- Improve product /  service R&D and deployment capabilities
+- Adapt current products and services for new segments / channels
+- Improve product and service lifecycle management
+- Evolve product and service features, functionality and value
+- Improve product- and service-innovation skills of staff
+- Improve incentives for product development and innovation
+- Increase emphasis on design for configurability / customization
+- Determine new voice, data and non-network impacts on offerings
+- Improve methods and tools for measuring / managing product lifecycle 
+- Communicate new product / service position
+- Pursue innovative partnerships that increase product visibility
+- Launch targeted campaigns
+- Target new segments, verticals and applications
+- Apply brand to new and unbranded products
+- Educate direct and indirect sales groups on new product offerings
+- Leverage existing brand, marketing and sales efforts
+- Restructure channels to support new offerings
+- Improve communication of mobile advantages where they exist.
+- Increase quality of product and service launches
