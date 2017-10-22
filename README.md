@@ -1,4 +1,4 @@
-# "Current Customer" Value Enhancers
+# Value Enhancers for Existing Customers
 
 Strategies to enhance value for current customers:
 
