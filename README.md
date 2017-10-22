@@ -1,6 +1,6 @@
 # "Current Customer" Value Enhancers
 
-One liner strategies to enhance value for current customers:
+Strategies to enhance value for current customers:
 
 - Refocus and / or refine retention priorities and strategies
 - Increase emphasis on customer retention
