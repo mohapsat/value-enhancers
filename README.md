@@ -1,6 +1,6 @@
 # [Value](https://en.wikipedia.org/wiki/Value_(marketing)) Enhancers for Existing Customers
 
-Strategies to enhance value for your existing customers ([industry vertical](https://en.wikipedia.org/wiki/Vertical_market) agnostic)
+Strategies to enhance value for your existing customers ([industry vertical](https://en.wikipedia.org/wiki/Vertical_market) agnostic). This list will continue grow with your contributions.
 
 - Refocus and / or refine retention priorities and strategies
 - Increase emphasis on customer retention
